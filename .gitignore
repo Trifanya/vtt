@@ -3,5 +3,6 @@
 Gemfile.lock
 pkg/*
 *.idea
-*.?xt!*.txt
+*.?xt
+!*.txt
 *.[a-g]
